@@ -13,7 +13,8 @@
 #### <h1 align=center>**HOLA!**</h1> 
 
     Que gusto poder saludarte curioso del Data Science, como pudiste notarlo yo soy Mauro, un ser humano en busca de comprender los datos.
-    En este repositorio podrás encontrar mi primer proyecto de Data Engineering enfocado en el procesamientos de datos mediante ETL (Extraction, Transformation, Loading) y posteriormente la conexión de una API (Application Programming Interface) con Docker.
+    En este repositorio podrás encontrar mi primer proyecto de Data Engineering enfocado en el procesamientos de datos mediante 
+    ETL (Extraction, Transformation, Loading) y posteriormente la conexión de una API (Application Programming Interface) con Docker.
 
 # <h1 align=center> *`A continuación te presento la trabla de contenidos del repositorio...`* </h1>
 
@@ -32,7 +33,10 @@
 
 ## Introducción  
 
-    Los datos crecen exponencialmente y cada vez son más las empresas que buscan expertos que puedan ayudarles a entender, analizar y utilizar el potencial de tal cantidad de información. El objetivo de la Data Engineering es construir y mantener las estructuras de datos y las arquitecturas tecnológicas necesarias para el procesamiento, ingestión e implementación a gran escala de aplicaciones que usan datos de manera intensiva. 
+    Los datos crecen exponencialmente y cada vez son más las empresas que buscan expertos que puedan ayudarles a entender, 
+    analizar y utilizar el potencial de tal cantidad de información. El objetivo de la Data Engineering es construir y 
+    mantener las estructuras de datos y las arquitecturas tecnológicas necesarias para el procesamiento, ingestión e implementación
+    a gran escala de aplicaciones que usan datos de manera intensiva. 
       
 
 <p align="center">
