@@ -216,7 +216,7 @@ Con esto podemos verificar nuestra imagen en docker hub
 Finalmente observamos la API corriendo correctamente y haciendo las consultas pertinentes
 
 <p align="center">
-<img src="src\assets\api-docker.png"  height=200>
+<img src="src\assets\API_running.png"  height=200>
 </p>
 
 <hr>
